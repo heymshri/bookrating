@@ -22,6 +22,11 @@ dictionary would be as follows:
 { ' Alice': [5, 3, 0, 0, 4, 0], ' Tom': [0, 2, 4, 0, 0,4],' Jon': [0, 4, 1, 0, 0, 1], ' Josh': [0, 1, 5, 3, 0,1] }
 
 The program should have a menu as below:
+    Welcome to the EduWra Book Recommendation System
+    1: All books average ratings
+    2: Recommend books for a particular user
+    q: Exit the page
+    
 The above menu should be repeated after every task is finished.
 
 Option 1: All books average ratings
@@ -95,3 +100,11 @@ Once you have calculated these averages, create a list of tuples containing the 
 the book title for all books with non-zero ratings in the averages list. Then, sort this list. Now you have
 a list of books to recommend.
 The user can enter q to exist the program:
+
+The program should have a menu as below:
+    Welcome to the EduWra Book Recommendation System
+    1: All books average ratings
+    2: Recommend books for a particular user
+    q: Exit the page
+   Select one of the options above:3
+>>>
